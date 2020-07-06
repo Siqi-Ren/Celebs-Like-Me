@@ -7,4 +7,4 @@ Data_collection has the scripts of scraping data.
 
 Train folder contains models training and validation codes.
 
-Prediction folder contains scripts for making a prediction. `
+Prediction folder contains scripts for making a prediction. 
